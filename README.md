@@ -12,4 +12,5 @@ Today I Learned - 공부한 내용을 기록합니다.
 
 
 아무말이나적어봐 
-테스트2
+테스트2<br>
+cli commit test
